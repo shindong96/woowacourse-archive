@@ -79,7 +79,7 @@
 | 장바구니 - 2단계 | https://github.com/shindong96/jwp-shopping-cart/tree/step2 | https://github.com/woowacourse/jwp-shopping-cart/pull/137 |
 
 ### 스터디<a name="study"></a>
-- [`스프링5 프로그래밍 입문(최범균)`를 이용한 스프링 부수기](https://github.com/woowacourse-study/2022-gugu-spring-study)
+- [`스프링5 프로그래밍 입문(최범균)`을 이용한 스프링 부수기](https://github.com/woowacourse-study/2022-gugu-spring-study)
 <br/>
 
 

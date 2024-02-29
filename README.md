@@ -1,7 +1,8 @@
-# 🚀 woowacourse-archive
-우아한테크코스에서 활동한 내용을 정리합니다.
+<p align="center">
+  <img src="https://github.com/shindong96/woowacourse-archive/assets/70707629/5fb804fd-8cd3-4e0a-9da6-5f40b3685bae">
+</p>
 
-### _우아한 일대기_
+우아한테크코스에서 활동한 내용을 정리합니다.
 각 이모지를 클릭하면 해당 섹션으로 이동할 수 있습니다.
 
 1. Level 1 : JAVA 프로그래밍 기본

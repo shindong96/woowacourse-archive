@@ -43,14 +43,14 @@
 
 | Project | Repository | Pull Request |
 | --- | --- | --- |
-| 자동차 경주 게임 - 1단계 | https://github.com/shindong96/java-racingcar/tree/shindong96 | https://github.com/woowacourse/java-racingcar/pull/276 |
-| 자동차 경주 게임 - 2단계 | https://github.com/shindong96/java-racingcar/tree/step2-2 | https://github.com/woowacourse/java-racingcar/pull/407 |
-| 로또 - 1단계 | https://github.com/shindong96/java-lotto/tree/shindong96 | https://github.com/woowacourse/java-lotto/pull/343 |
-| 로또 - 2단계 | https://github.com/shindong96/java-lotto/tree/step2 | https://github.com/woowacourse/java-lotto/pull/497 |
-| 블랙잭 - 1단계 | https://github.com/shindong96/java-blackjack/tree/step1 | https://github.com/woowacourse/java-blackjack/pull/269 |
-| 블랙잭 - 2단계 | https://github.com/shindong96/java-blackjack/tree/step2-2 | https://github.com/woowacourse/java-blackjack/pull/335 |
-| 체스 - 1~3단계 | https://github.com/shindong96/java-chess/tree/step1 | https://github.com/woowacourse/java-chess/pull/305 |
-| 체스 - 4~5단계 | https://github.com/shindong96/java-chess/tree/step2-2 | https://github.com/woowacourse/java-chess/pull/389 |
+| 자동차 경주 게임 - 1단계 | https://github.com/shindong96/java-racingcar/tree/shindong96 | [reviewed by 또링](https://github.com/woowacourse/java-racingcar/pull/276) |
+| 자동차 경주 게임 - 2단계 | https://github.com/shindong96/java-racingcar/tree/step2-2 | [reviewed by 또링](https://github.com/woowacourse/java-racingcar/pull/407) |
+| 로또 - 1단계 | https://github.com/shindong96/java-lotto/tree/shindong96 | [reviewed by 에단](https://github.com/woowacourse/java-lotto/pull/343) |
+| 로또 - 2단계 | https://github.com/shindong96/java-lotto/tree/step2 | [reviewed by 에단](https://github.com/woowacourse/java-lotto/pull/497) |
+| 블랙잭 - 1단계 | https://github.com/shindong96/java-blackjack/tree/step1 | [reviewed by 소니](https://github.com/woowacourse/java-blackjack/pull/269) |
+| 블랙잭 - 2단계 | https://github.com/shindong96/java-blackjack/tree/step2-2 | [reviewed by 소니](https://github.com/woowacourse/java-blackjack/pull/335) |
+| 체스 - 1~3단계 | https://github.com/shindong96/java-chess/tree/step1 | [reviewed by 던](https://github.com/woowacourse/java-chess/pull/305) |
+| 체스 - 4~5단계 | https://github.com/shindong96/java-chess/tree/step2-2 | [reviewed by 던](https://github.com/woowacourse/java-chess/pull/389) |
 <br/>
 
 ## **🎯** Level 2 : Spring 기반 웹 프로그래밍<a name="level2"></a>
@@ -70,14 +70,14 @@
 
 | Project | Repository | Pull Request |
 | --- | --- | --- |
-| 웹 체스 - 1단계 | https://github.com/shindong96/jwp-chess/tree/step1 | https://github.com/woowacourse/jwp-chess/pull/388 |
-| 웹 체스 - 2단계 | https://github.com/shindong96/jwp-chess/tree/step2 | https://github.com/woowacourse/jwp-chess/pull/463 |
-| 지하철 노선도 - 1~2단계 | https://github.com/shindong96/atdd-subway-map/tree/step1 | https://github.com/woowacourse/atdd-subway-map/pull/235 |
-| 지하철 노선도 - 3단계 | https://github.com/shindong96/atdd-subway-map/tree/step2 | https://github.com/woowacourse/atdd-subway-map/pull/300 |
-| 지하철 경로 조회 - 1단계 | https://github.com/shindong96/atdd-subway-path/tree/step1 | https://github.com/woowacourse/atdd-subway-path/pull/221 |
-| 지하철 경로 조회 - 2단계 | https://github.com/shindong96/atdd-subway-path/tree/step2 | https://github.com/woowacourse/atdd-subway-path/pull/302 |
-| 장바구니 - 1단계 | https://github.com/shindong96/jwp-shopping-cart/tree/step1 | https://github.com/woowacourse/jwp-shopping-cart/pull/14 |
-| 장바구니 - 2단계 | https://github.com/shindong96/jwp-shopping-cart/tree/step2 | https://github.com/woowacourse/jwp-shopping-cart/pull/137 |
+| 웹 체스 - 1단계 | https://github.com/shindong96/jwp-chess/tree/step1 | [reviewed by 제이](https://github.com/woowacourse/jwp-chess/pull/388) |
+| 웹 체스 - 2단계 | https://github.com/shindong96/jwp-chess/tree/step2 | [reviewed by 제이](https://github.com/woowacourse/jwp-chess/pull/463) |
+| 지하철 노선도 - 1~2단계 | https://github.com/shindong96/atdd-subway-map/tree/step1 | [reviewed by 에단](https://github.com/woowacourse/atdd-subway-map/pull/235) |
+| 지하철 노선도 - 3단계 | https://github.com/shindong96/atdd-subway-map/tree/step2 | [reviewed by 에단](https://github.com/woowacourse/atdd-subway-map/pull/300) |
+| 지하철 경로 조회 - 1단계 | https://github.com/shindong96/atdd-subway-path/tree/step1 | [reviewed by 희봉](https://github.com/woowacourse/atdd-subway-path/pull/221) |
+| 지하철 경로 조회 - 2단계 | https://github.com/shindong96/atdd-subway-path/tree/step2 | [reviewed by 희봉](https://github.com/woowacourse/atdd-subway-path/pull/302) |
+| 장바구니 - 1단계 | https://github.com/shindong96/jwp-shopping-cart/tree/step1 | [reviewed by 토니](https://github.com/woowacourse/jwp-shopping-cart/pull/14) |
+| 장바구니 - 2단계 | https://github.com/shindong96/jwp-shopping-cart/tree/step2 | [reviewed by 토니](https://github.com/woowacourse/jwp-shopping-cart/pull/137) |
 
 ### 스터디<a name="study"></a>
 - [`스프링5 프로그래밍 입문(최범균)`을 이용한 스프링 부수기](https://github.com/woowacourse-study/2022-gugu-spring-study)
@@ -98,7 +98,7 @@
 
 | Project | Repository | Portfolio |
 | --- | --- | --- |
-| 체크메이트 | https://github.com/woowacourse-teams/2022-moragora | https://www.notion.so/690412d76305491c8e315dd75794dff5?pvs=21 |
+| 체크메이트 | https://github.com/woowacourse-teams/2022-moragora | [포트폴리오](https://www.notion.so/690412d76305491c8e315dd75794dff5?pvs=21) |
 
 <br/>
 
@@ -121,17 +121,17 @@
 
 | Project | Repository | Pull Request |
 | --- | --- | --- |
-| 톰캣 구현하기 - 1단계 | https://github.com/shindong96/jwp-dashboard-http/tree/main | https://github.com/woowacourse/jwp-dashboard-http/pull/180 |
-| 톰캣 구현하기 - 2~4단계 | https://github.com/shindong96/jwp-dashboard-http/tree/step2 | https://github.com/woowacourse/jwp-dashboard-http/pull/222 |
-| MVC 구현하기 - 1단계 | https://github.com/shindong96/jwp-dashboard-mvc/tree/step1 | https://github.com/woowacourse/jwp-dashboard-mvc/pull/159 |
-| MVC 구현하기 - 2단계 | https://github.com/shindong96/jwp-dashboard-mvc/tree/step2 | https://github.com/woowacourse/jwp-dashboard-mvc/pull/216 |
-| MVC 구현하기 - 3단계 | https://github.com/shindong96/jwp-dashboard-mvc/tree/step3 | https://github.com/woowacourse/jwp-dashboard-mvc/pull/314 |
-| JDBC 구현하기 - 1단계 | https://github.com/shindong96/jwp-dashboard-jdbc/tree/step1 | https://github.com/woowacourse/jwp-dashboard-jdbc/pull/123 |
-| JDBC 구현하기 - 2단계 | https://github.com/shindong96/jwp-dashboard-jdbc/tree/step2 | https://github.com/woowacourse/jwp-dashboard-jdbc/pull/172 |
-| JDBC 구현하기 - 3단계 | https://github.com/shindong96/jwp-dashboard-jdbc/tree/step3 | https://github.com/woowacourse/jwp-dashboard-jdbc/pull/224 |
-| 레거시 리팩토링 - 1단계 | https://github.com/shindong96/jwp-refactoring/tree/step1-1 | https://github.com/woowacourse/jwp-refactoring/pull/282 |
-| 레거시 리팩토링 - 2단계 | https://github.com/shindong96/jwp-refactoring | https://github.com/woowacourse/jwp-refactoring/pull/297 |
-| 레거시 리팩토링 - 3단계 | https://github.com/shindong96/jwp-refactoring/tree/step3 | https://github.com/woowacourse/jwp-refactoring/pull/375 |
+| 톰캣 구현하기 - 1단계 | https://github.com/shindong96/jwp-dashboard-http/tree/main | [reviewed by 베루스](https://github.com/woowacourse/jwp-dashboard-http/pull/180) |
+| 톰캣 구현하기 - 2~4단계 | https://github.com/shindong96/jwp-dashboard-http/tree/step2 | [reviewed by 베루스](https://github.com/woowacourse/jwp-dashboard-http/pull/222) |
+| MVC 구현하기 - 1단계 | https://github.com/shindong96/jwp-dashboard-mvc/tree/step1 | [reviewed by 마루](https://github.com/woowacourse/jwp-dashboard-mvc/pull/159) |
+| MVC 구현하기 - 2단계 | https://github.com/shindong96/jwp-dashboard-mvc/tree/step2 | [reviewed by 마루](https://github.com/woowacourse/jwp-dashboard-mvc/pull/216) |
+| MVC 구현하기 - 3단계 | https://github.com/shindong96/jwp-dashboard-mvc/tree/step3 | [reviewed by 마루](https://github.com/woowacourse/jwp-dashboard-mvc/pull/314) |
+| JDBC 구현하기 - 1단계 | https://github.com/shindong96/jwp-dashboard-jdbc/tree/step1 | [reviewed by 범고래](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/123) |
+| JDBC 구현하기 - 2단계 | https://github.com/shindong96/jwp-dashboard-jdbc/tree/step2 | [reviewed by 범고래](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/172) |
+| JDBC 구현하기 - 3단계 | https://github.com/shindong96/jwp-dashboard-jdbc/tree/step3 | [reviewed by 범고래](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/224) |
+| 레거시 리팩토링 - 1단계 | https://github.com/shindong96/jwp-refactoring/tree/step1-1 | [reviewed by 파랑](https://github.com/woowacourse/jwp-refactoring/pull/282) |
+| 레거시 리팩토링 - 2단계 | https://github.com/shindong96/jwp-refactoring | [reviewed by 파랑](https://github.com/woowacourse/jwp-refactoring/pull/297) |
+| 레거시 리팩토링 - 3단계 | https://github.com/shindong96/jwp-refactoring/tree/step3 | [reviewed by 파랑](https://github.com/woowacourse/jwp-refactoring/pull/375) |
 
 <br/>
 
